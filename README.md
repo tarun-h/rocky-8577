@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rocky-8577
+- 👋 Hi, I’m @tarun-harish
 - 👀 I’m interested in learning new and innovative practices in Data Science
 - 🌱 I’m currently learning Data Science with a concentration in ML
 - 💞️ I’m looking to collaborate on ...
